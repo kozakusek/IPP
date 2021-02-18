@@ -65,5 +65,5 @@ In the interactive mode the board is pictured.
 
 ### Disclaimer
 
-I do not own the idea for that project. I am not the author. This is merely a rough translation and a summary.
+I do not own the idea for that project. I am not the author of the above text. This is merely a rough translation and a summary.
 All credit goes to University of Warsaw, Faculty of Mathematics, Informatics and Mechanics.
