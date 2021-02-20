@@ -37,8 +37,7 @@ After chosing the batch mode the programme acccepts commands:
 * `p` 			 – calls `gamma_board`
 
 Every incorrect line should be acknowledged by printing `ERROR line\n` to stderr.
-Every correct line shoould be acknowledged by printing  
-`OK line\n` to stdout.
+Every correct line shoould be acknowledged by printing  `OK line\n` to stdout.
 Where `line` is the number of a particular line.
 
 ###### Interacive mode
