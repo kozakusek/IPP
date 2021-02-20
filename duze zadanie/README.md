@@ -63,6 +63,12 @@ In the interactive mode the board is pictured.
 
 - The game might not be compatibile with OS other than Linux :crying_cat_face:
 
+### Preview
+
+![alt text](https://github.com/kozakusek/pictures/blob/main/gamma/start.png?raw=true "Interactive Mode")  
+![alt text](https://github.com/kozakusek/pictures/blob/main/gamma/game.png?raw=true "2 player game")  
+![alt text](https://github.com/kozakusek/pictures/blob/main/gamma/end.png?raw=true "Scoreboard")  
+
 ### Disclaimer
 
 I do not own the idea for that project. I am not the author of the above text. This is merely a rough translation and a summary.
